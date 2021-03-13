@@ -1,1 +1,2 @@
-# This is the blank repository for the glorious cheret.org website
+# welcome to cheret.org
+This page is intentionally left blank
