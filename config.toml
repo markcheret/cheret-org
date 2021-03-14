@@ -17,7 +17,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "Mark Cheret volunteering showcase"
+  description = "Mark Cheret projects showcase"
   facebook = "https://www.facebook.com/mark.cheret"
   twitter = "https://www.twitter.com/markcheret"
   instagram = "https://www.instagram.com/markcheret/"
@@ -30,3 +30,6 @@ enableRobotsTXT = true
   featured_image = "CHERET-banner-2020-Q2.jpg"
   recent_posts_number = 2
   show_reading_time = true
+
+[permalinks]
+  posts = "/:year/:month/:title/"
