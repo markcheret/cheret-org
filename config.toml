@@ -1,4 +1,32 @@
 baseURL = "https://cheret.org/"
 languageCode = "en-gb"
-title = "Mark Cheret"
+title = "cheret.org"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Mark Cheret volunteering showcase"
+  facebook = "https://www.facebook.com/mark.cheret"
+  twitter = "https://www.twitter.com/markcheret"
+  instagram = "https://www.instagram.com/markcheret/"
+  youtube = "https://www.youtube.com/channel/UCwJUxXz7mCJR0RPepeggD1Q"
+  github = "https://github.com/markcheret"
+  linkedin = "https://www.linkedin.com/in/markcheret"
+  mastodon = "https://noc.social/@markcheret"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-dark-gray"
+  featured_image = "CHERET-banner-2020-Q2.jpg"
+  recent_posts_number = 2
+  show_reading_time = true
