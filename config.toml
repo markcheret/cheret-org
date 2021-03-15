@@ -1,11 +1,11 @@
+title = "cheret.org"
 baseURL = "https://cheret.org/"
 languageCode = "en-gb"
-title = "cheret.org"
 theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-13106435-20"
 enableRobotsTXT = true
 
@@ -28,7 +28,7 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-dark-gray"
   featured_image = "/images/CHERET-banner-2020-Q2.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 3
   show_reading_time = true
 
 [permalinks]
