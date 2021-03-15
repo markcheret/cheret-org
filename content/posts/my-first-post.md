@@ -3,6 +3,7 @@ title: "My first post with a new CMS"
 date: 2021-03-14T15:36:53+01:00
 tags: [development]
 draft: false
+toc: true
 featured_image: "/images/jason-leung-wQBCIJJgeJI-unsplash.jpg"
 ---
 
