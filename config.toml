@@ -1,5 +1,5 @@
 title = "cheret.org"
-baseURL = "https://cheret.org/"
+baseURL = "https://cheret.org"
 languageCode = "en-gb"
 theme = "ananke"
 
@@ -30,6 +30,7 @@ enableRobotsTXT = true
   featured_image = "/images/CHERET-banner-2020-Q2.jpg"
   recent_posts_number = 3
   show_reading_time = true
+  env = "production"
 
 [permalinks]
   posts = "/:year/:month/:title/"
