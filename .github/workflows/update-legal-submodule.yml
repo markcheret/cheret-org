@@ -1,0 +1,12 @@
+# From: https://github.com/textbook/git-checkout-submodule-action
+name: Update legal submodule on PR
+on: [pull_request]
+
+jobs:
+  update-legal-submodule:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Checkout submodules
+      run: git submodule update --init --recursive
