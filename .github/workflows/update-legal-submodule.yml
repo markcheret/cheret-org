@@ -8,5 +8,7 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Checkout submodules
-      run: git submodule update content/legal --init --recursive
+      run: git submodule update --init --recursive content/legal
