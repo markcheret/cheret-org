@@ -4,7 +4,7 @@
 ## LBPC#041 - Medien nicht Marketing
 
 Kommunikation der eigenen Marke, des eigenen Produktes oder der eigenen Dienstleistung
-
+<!--more-->
 {{< music url="lbpc-41-medien-nicht-marketing-20150520.mp3" name="LBPC#041 - Medien nicht Marketing" artist="Mark Cheret & Samuel Antosch" cover="/images/lifebeat-logo180.jpg" >}}
 
 ## Shownotes
