@@ -21,7 +21,7 @@ upd: "This is a post from the archives of my German website."
 ## Shownotes
 
 Wieder zurück nach einer enorm langen Sendepause. Die Themen liegen Bereit. Aus aktuellem Anlass gehe ich zusammen mit Joni auf den Song ein. Nach diesem lustigen Einstieg geht es direkt an die Thematik.
-Aussage des Songs / Videos 
+Aussage des Songs / Videos
 
 {{< youtube 9bZkp7q19f0 >}}
 
