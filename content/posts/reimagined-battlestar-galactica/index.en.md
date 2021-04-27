@@ -1,5 +1,4 @@
 ---
-weight: 3
 description: "Coming from a perspective of being one of many serious Star Trek fans who have watched absolutely every episode and movie there is out there, presently I can't tell which of these I like better."
 title: 'my take on "The Reimagined Battlestar Galactica"'
 date: Sun, 12 Jan 2014 19:26:49 +0000
