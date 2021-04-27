@@ -10,6 +10,7 @@
 Nach einer gepflegten Pause von knapp 2 Jahren geht der lifebeat podcast weiter. Wir erinnern uns zurück an die alten Zeiten.
 
 Themen:
+
 - Schokopudding
 - Technik
 - Glaube/Aberglaube
@@ -18,9 +19,10 @@ Themen:
 - Religionen
 - Feedback erwünscht!
 - Pseudonyme / Alter Ego
-- ManFisher Studio 
+- ManFisher Studio
 
 Teilnehmer:
 Mark Cheret und Samuel Antosch
 
 Diese Folge wurde am Freitag, 13.02.2015 produziert.
+
