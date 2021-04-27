@@ -19,8 +19,8 @@ Jeder schafft sich gerne seinen eigenen Space. Ein schönes Büro, ein tolles St
 
 Ein Ort, der menschliche Interaktion fördert, muss kreativ, inspirierend und aus der Zeit heraus gewachsen sein und lebendig. Wie zum Beispiel ein Wirtshaus oder ein kreativer Space, der sich niemals damit zufrieden gibt, dass eine Sache so ist, wie sie einst eingerichtet wurde, sondern ständig den Anforderungen angepasst wird und damit zum lebendigen Organismus wird. Zum Abschluss noch eine Liste an Einflussfaktoren, die einen Ort ausmachen:
 
-*   Verfügbarkeit von High-Speed-Internet
-*   Umwelt (Sonne, Regen)
-*   Einrichtungen wie Kaffeemaschine, Waffeleisen, ...
-*   Sanitäranlagen
-*   Freiraum, Bewegungsfreiheit, Platzausnutzung
+* Verfügbarkeit von High-Speed-Internet
+* Umwelt (Sonne, Regen)
+* Einrichtungen wie Kaffeemaschine, Waffeleisen, ...
+* Sanitäranlagen
+* Freiraum, Bewegungsfreiheit, Platzausnutzung
