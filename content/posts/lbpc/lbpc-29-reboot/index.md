@@ -2,7 +2,7 @@
 title: 'LBPC#029 – Reboot'
 date: Fri, 13 Feb 2015 15:39:44 +0100
 lastmod: Fri, 18 Apr 2021 04:15:02 +0100
-description: "Zusammen mit Amhera Strax rede ich über Schokopudding, Religionen, Technik und das Senden im Allgemeinen"
+description: "Zusammen mit Amehra Strax rede ich über Schokoladenpudding, Religionen, Technik und das Senden im Allgemeinen"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
@@ -24,7 +24,7 @@ Nach einer gepflegten Pause von knapp 2 Jahren geht der lifebeat podcast weiter.
 
 Themen:
 
-- Schokopudding
+- Schokoladenpudding
 - Technik
 - Glaube/Aberglaube
 - Kim Jong Un ist [Der Diktator](https://de.wikipedia.org/wiki/Der_Diktator) Nordkoreas

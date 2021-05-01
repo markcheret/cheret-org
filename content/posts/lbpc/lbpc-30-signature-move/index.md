@@ -2,7 +2,7 @@
 title: 'LBPC#030 – Signature move'
 date: Mon, 16 Feb 2015 22:39:44 +0100
 lastmod: Fri, 18 Apr 2021 03:15:02 +0100
-description: "Zusammen mit Amhera Strax rede ich über den sogenannten Signature Move, Asylkultur und kulturelle Identität der Bundesländer Deutschlands"
+description: "Zusammen mit Amehra Strax rede ich über den sogenannten Signature Move, Asylkultur und kulturelle Identität der Bundesländer Deutschlands"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
