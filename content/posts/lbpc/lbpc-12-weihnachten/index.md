@@ -25,7 +25,7 @@ upd: "This is a post from the archives of my German website."
 
 ### lifebeat promo
 
-- Wir brauchen euch! Anrufbeantworter für euere Audiokommentare 08654 4579610 kostenlos anrufbar.
+- Wir brauchen euch! Anrufbeantworter für eure Audiokommentare 08654 4579610 kostenlos anrufbar.
 - ManFisher und ReD_SuN im Partnerlook unterwegs
 
 ### lifebeat story

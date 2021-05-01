@@ -2,7 +2,7 @@
 title: 'LBPC#040 – Rest in Peace Paul Walker'
 date: Tue, 12 May 2015 22:39:44 +0100
 lastmod: Sun, 18 Apr 2021 03:42:02 +0100
-description: "Talk mit Amhera über den Verlust von Paul Walker"
+description: "Talk mit Amehra über den Verlust von Paul Walker"
 draft: false
 tags: ['podcast']
 categories: ['lifebeat podcast']
@@ -23,7 +23,10 @@ upd: "This is a post from the archives of my German website."
 - endlich ein neues Intro Jingle
 - Vocoder vs. Autotune
 - der emotional schwierige und gleichzeitig ironische Abgang von Paul Walker
-- [Amhera das erste mal auf einem Pferd](https://www.youtube.com/watch?v=ZO_X8e7Zrd0&ab_channel=Urgestain)
+
+## Amehra das erste mal auf einem Pferd
+
+{{< youtube ZO_X8e7Zrd0 >}}
 
 Teilnehmer:
 Mark Cheret und Samuel Antosch
