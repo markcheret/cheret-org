@@ -11,7 +11,7 @@ Nach einer gepflegten Pause von knapp 2 Jahren geht der lifebeat podcast weiter.
 
 Themen:
 
-- Schokopudding
+- Schokoladenpudding
 - Technik
 - Glaube/Aberglaube
 - Kim Jong Un ist [Der Diktator](https://de.wikipedia.org/wiki/Der_Diktator) Nordkoreas

@@ -24,7 +24,7 @@ Themen:
 - Messbarkeit im Onlinebereich absolut gegeben
 - Erfolgsmessung von Werbung wird oft vergessen
 - Messbarkeit im Offlinebereich basiert auf Schätzungen, Hochrechnungen und Vermutungen
-- Zukunftsvision von Werbung; Hyperdigitales, Mehrdimensionales Werbeplakat eher unwahrscheinlich
+- Zukunftsvision von Werbung; Hyper-digitales, Mehrdimensionales Werbeplakat eher unwahrscheinlich
 - Marketing ist Storytelling, Marketing ist Medien nicht Marketing
 - Mithilfe von Medien bekomme ich meine Botschaft Kommuniziert, ohne dass die Leute abschalten
 - AdBlocker sitzt heute schon im Gehirn
@@ -37,7 +37,7 @@ Themen:
 - Wie kann ich so etwas in mein Geschäft eingebaut
 - stelle ein Konzept auf und mach es einfach
 - Beispielprodukt: Mozartkoffer.com zum Test diverser Strategien
-- Bloggen allein tut's nicht!
+- Bloggen allein tut es nicht!
 - Video hat einen größeren Effekt
 - Es geht immer noch um die Tiefe, nicht nur die Breite des Marketing
 - Investiere in ein Video und schau dir die Ergebnisse an

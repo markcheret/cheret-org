@@ -10,7 +10,10 @@
 - endlich ein neues Intro Jingle
 - Vocoder vs. Autotune
 - der emotional schwierige und gleichzeitig ironische Abgang von Paul Walker
-- [Amhera das erste mal auf einem Pferd](https://www.youtube.com/watch?v=ZO_X8e7Zrd0&ab_channel=Urgestain)
+
+## Amehra das erste mal auf einem Pferd
+
+{{< youtube ZO_X8e7Zrd0 >}}
 
 Teilnehmer:
 Mark Cheret und Samuel Antosch

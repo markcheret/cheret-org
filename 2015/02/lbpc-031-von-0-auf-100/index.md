@@ -26,10 +26,10 @@ Tiefpunkt im Leben von Mark Cheret und Neuanfang - Hörergeschenke und Feedback
 
 - mein rechter Platz ist frei, Gäste sind gerne willkommen
 - ManFisher arbeitet 24/7 und feiert 24/7
-- die Schenkerei von Dingen ist Nachahmungswürdig
+- das Schenken von Dingen ist Nachahmungswürdig
 - Hörerfeedback mit konstruktiver Kritik
 - ManFisher's Hoffnung: Wir wollen euch gewinnen, bitte bleibt dran
-- Amehra Strex: Wir wollen euch erreichen
+- Amehra Strax: Wir wollen euch erreichen
 - Benjamin Makatowski: Dudes und Dudetten
 - wir spielen euch nichts vor, wir sind echt
 

@@ -9,7 +9,7 @@
 
 ### Shownotes
 
-Im Gespräch mit Marketing-Experten Christian Reiweger, BA, gehen wir der Frage auf den Grund, was der allseits geforderte aber nie genauer erklärte "Mehrwert" der Social-Media-Kanäle sein könnte, den die Firmen mit ihren Produkt-, Marken- oder Unternehmenspages bieten sollen. Muss eine Firma überhaupt auf Facebook oder nicht? Ist es gut, wenn der Chef persönlich postet? Stelle ich jemanden ein oder beauftrage eine Agentur? Kann ich als Firma einen Hype auf Facebook lostreten, der ähnliche Dimensionen annimmt, wie das Social Drinking Game - Neknominate?
+Im Gespräch mit Marketing-Experten Christian Reiweger, BA, gehen wir der Frage auf den Grund, was der allseits geforderte aber nie genauer erklärte "Mehrwert" der Social-Media-Kanäle sein könnte, den die Firmen mit ihren Produkt-, Marken- oder Unternehmens-pages bieten sollen. Muss eine Firma überhaupt auf Facebook oder nicht? Ist es gut, wenn der Chef persönlich posted? Stelle ich jemanden ein oder beauftrage eine Agentur? Kann ich als Firma einen Hype auf Facebook lostreten, der ähnliche Dimensionen annimmt, wie das Social Drinking Game - [NekNominate](https://de.wikipedia.org/wiki/Biernominierung)?
 
 Teilnehmer:
 Mark Cheret und Christian Reiweger
