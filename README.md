@@ -1,6 +1,6 @@
 # welcome to cheret.org
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkcheret%2Fcheret-org.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkcheret%2Fcheret-org?ref=badge_shield)
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkcheret%2Fcheret-org.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkcheret%2Fcheret-org?ref=badge_shield)
 
 This public repository contains the cheret.org website which is built using the HUGO templating system and static webpage generator.
 
@@ -23,6 +23,6 @@ It's a mixture of English, German and content in other languages. You have been 
 </table>
 <!-- readme: contributors -end -->
 
-
 ## License
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkcheret%2Fcheret-org.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkcheret%2Fcheret-org?ref=badge_large)
