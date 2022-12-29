@@ -10,7 +10,7 @@ The supplies depicted in the above image are:
 - [Faber-Castell 33 Pitt Monochrome Set](https://www.faber-castell.de/produkte/PittMonochromeSet33erMetalletui/112977)
 - [Faber-Castell 24 Black Edition Pencils](https://www.faber-castell.de/produkte/BlackEditionBuntstifte24erKartonetui/116424)
 - [Faber-Castell Grip 2001 Can Sharpener](https://www.faber-castell.de/produkte/Grip2001Dreifachspitzdosesilber/183800)
-- [Faber-Castell Sleve Eraser](https://www.faber-castell.de/produkte/SleeveRadierergr%c3%bcn/182402)
+- [Faber-Castell Sleeve Eraser](https://www.faber-castell.de/produkte/SleeveRadierergr%c3%bcn/182402)
 - [Faber-Castell 4-piece brush set with soft-grip sizes: 2/6/10/12](https://www.faber-castell.de/produkte/PinselmitSofttouchGriffst%c3%bcck4erSetGr%c3%b6%c3%9fen261012/481600)
 - [Faber-Castell 4-piece brush set with soft-grip sizes: 4/8/10/12](https://www.faber-castell.de/produkte/SoftTouchPinselGr%c3%b6%c3%9fen481012/481620)
 
