@@ -482,7 +482,9 @@
         "gitflow",
         "Outro",
         "empowerers",
-        "listserv"
+        "listserv",
+        "Polychromos",
+        "Paperblanks"
     ],
     "ignorePaths": [
         "content/legal/",
