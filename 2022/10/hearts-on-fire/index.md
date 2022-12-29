@@ -13,7 +13,7 @@ What started as a sketch with thin lines and a mis-shaped heart quickly turned i
 
 ![alt text](hearts_on_fire_process.jpeg "Hearts on Fire and the supplies and inspiration used to create it.")
 
-I posted this image on a slack channel of the company I work for and got some feedback from people. One kind soul volunteered to lend me a coffee table book with a few variations on the heart theme for inspiration and I gladly took her up on the offer. The original piece was decidedly missing some flames while bearing "on fire" in the title. So I fixed that by using some brushes and odorless mineral spirits to move the pigments vaguely depicting flames.
+I posted this image on a slack channel of the company I work for and got some feedback from people. One kind soul volunteered to lend me a coffee table book with a few variations on the heart theme for inspiration and I gladly took her up on the offer. The original piece was decidedly missing some flames while bearing "on fire" in the title. So I fixed that by using some brushes and odourless mineral spirits to move the pigments vaguely depicting flames.
 
 ![alt text](hearts_on_fire_sketchbook.jpeg "Quick snap of the finished piece in my sketchbook.")
 

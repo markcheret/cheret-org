@@ -14,7 +14,7 @@ I did some research on YouTube about how to make the best use of the Polychromos
 
 {{< youtube u_NKbyztQVA >}}
 
-The first draft was already coming together nicely and after some more research and further supplies (Odorless Mineral Spirit for blending) I experimented with activating the pigments which makes for some smooth blending and covers the paper in colour. I managed to create a green background only by using some odorless mineral spirit applied to the tree and using a brush to distribute the pigments across the entire sketch.
+The first draft was already coming together nicely and after some more research and further supplies (Odourless Mineral Spirit for blending) I experimented with activating the pigments which makes for some smooth blending and covers the paper in colour. I managed to create a green background only by using some odourless mineral spirit applied to the tree and using a brush to distribute the pigments across the entire sketch.
 
 ![alt text](20220928-dark-forest.jpg "The dark forest.")
 

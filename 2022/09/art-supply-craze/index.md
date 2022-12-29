@@ -20,5 +20,5 @@ Happy kid with a set of tools to get serious about sketching.
 
 ![alt text](20220930-art-supplies-craze-3.jpg "Faber-Castell soft-grip brushes. Complete set.")
 
-I'm using these brushes to apply odorless mineral spirits for the [Polychromos Colour Pencils](https://www.faber-castell.de/produkte/polychromos-kuenstlerfarbstifte/buntstifte) line and water for the [Albrecht Dürer Watercolour Pencils](https://www.faber-castell.de/produkte/albrecht-duerer/buntstifte) line.
+I'm using these brushes to apply odourless mineral spirits for the [Polychromos Colour Pencils](https://www.faber-castell.de/produkte/polychromos-kuenstlerfarbstifte/buntstifte) line and water for the [Albrecht Dürer Watercolour Pencils](https://www.faber-castell.de/produkte/albrecht-duerer/buntstifte) line.
 
