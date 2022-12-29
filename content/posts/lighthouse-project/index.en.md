@@ -26,7 +26,7 @@ Highlighted with a [Uni-ball Gel Impact Black Broad 1.0mm](https://www.amazon.de
 
 ![alt text](20221222-Lighthouse-Project-sketch-overlay.jpg "Sketch and finished work in comparison.")
 
-To highlight and pay respects to the creative process I have extracted, enlarged and overlayed the concept sketch over the result, showing how similar the product is to the original sketch. After creating the sketch I used a blank sheet of paper and outlined the contours with a [Faber-Castell Castell 9000 HB](https://www.faber-castell.de/produkte/Castell9000BleistiftHB/119000), traced the lines with a Pitt Artist Pen, erased the pencil sketch and then started colouring the piece.
+To highlight and pay respects to the creative process I have extracted, enlarged and overlaid the concept sketch over the result, showing how similar the product is to the original sketch. After creating the sketch I used a blank sheet of paper and outlined the contours with a [Faber-Castell Castell 9000 HB](https://www.faber-castell.de/produkte/Castell9000BleistiftHB/119000), traced the lines with a Pitt Artist Pen, erased the pencil sketch and then started colouring the piece.
 
 ## Output
 
