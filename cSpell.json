@@ -484,7 +484,8 @@
         "empowerers",
         "listserv",
         "Polychromos",
-        "Paperblanks"
+        "Paperblanks",
+        "POSCA"
     ],
     "ignorePaths": [
         "content/legal/",

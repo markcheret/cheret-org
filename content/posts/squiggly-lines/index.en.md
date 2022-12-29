@@ -11,7 +11,7 @@ resources:
 
 ## Input
 
-I wanted to exercise my blending techniques, depth, perspective and shading work, so I just penciled a few lines on a blank piece of paper and went from there.
+I wanted to exercise my blending techniques, depth, perspective and shading work, so I just pencilled a few lines on a blank piece of paper and went from there.
 
 ![alt text](20221219-squiggly_lines_draft.jpeg "Initial sketch.")
 
