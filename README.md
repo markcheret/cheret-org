@@ -12,14 +12,24 @@ It's a mixture of English, German and content in other languages. You have been 
 
 <!-- readme: contributors -start -->
 <table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/markcheret">
-            <img src="https://avatars.githubusercontent.com/u/5813743?v=4" width="100;" alt="markcheret"/>
-            <br />
-            <sub><b>Mark Cheret</b></sub>
-        </a>
-    </td></tr>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/markcheret">
+                    <img src="https://avatars.githubusercontent.com/u/5813743?v=4" width="100;" alt="markcheret"/>
+                    <br />
+                    <sub><b>Mark Cheret</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/fossabot">
+                    <img src="https://avatars.githubusercontent.com/u/29791463?v=4" width="100;" alt="fossabot"/>
+                    <br />
+                    <sub><b>fossabot</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
 </table>
 <!-- readme: contributors -end -->
 
