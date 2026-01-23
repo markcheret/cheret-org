@@ -17,6 +17,10 @@ enableGitInfo = true
 # whether to use emoji code
 enableEmoji = true
 
+# Pagination config
+[pagination]
+  pagerSize = 12
+
 [languages]
   [languages.en]
     weight = 1
@@ -26,8 +30,6 @@ enableEmoji = true
     languageName = "English"
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = false
-    # default amount of posts in each pages
-    paginate = 12
     # copyright description used only for seo schema
     copyright = "This work is licensed under the MIT License."
     # Menu config
@@ -207,6 +209,9 @@ enableEmoji = true
 [params]
   # uBlogger theme version
   version = "2.0.X"
+  # Author config
+  [params.author]
+    name = "cheret.en"
   # site default theme ("light", "dark", "auto")
   defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
@@ -544,10 +549,6 @@ enableEmoji = true
     startLevel = 2
     endLevel = 6
 
-# Author config
-[author]
-  name = "cheret.en"
-
 # Sitemap config
 [sitemap]
   changefreq = "weekly"
@@ -564,7 +565,7 @@ enableEmoji = true
   # privacy of the Google Analytics (replaced by params.analytics.google)
   [privacy.googleAnalytics]
     # ...
-  [privacy.twitter]
+  [privacy.x]
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
@@ -586,4 +587,3 @@ enableEmoji = true
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
